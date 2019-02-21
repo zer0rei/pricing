@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import FooterColumn from './FooterColumn';
-import bootstrapLogo from '../assets/bootstrap-logo.svg';
+import bootstrapLogo from '../../assets/bootstrap-logo.svg';
 
 class Footer extends Component {
   constructor(props) {
